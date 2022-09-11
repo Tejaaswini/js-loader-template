@@ -141,7 +141,7 @@ body {
     height: 100px;
     /* background: red; */
     position: relative;
-    animation: runner 4s 2;
+    animation: runner 5s 2;
     animation-direction: alternate;
     margin-left: 30%;
     margin-top: 10%;
